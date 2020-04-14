@@ -463,6 +463,6 @@ module.exports = function(schema, option) {
       styles: styles
 
     },
-    noTemplate: false
+    noTemplate: true
   };
 }
